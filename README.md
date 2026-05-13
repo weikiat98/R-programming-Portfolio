@@ -13,6 +13,5 @@ This page contains personal and school works from my studies in Master's of Anal
 
 1. <a  style="font-weight:bold" href="https://weikiat98.github.io/R-programming-Portfolio/Personal-Works/US-Map-animation/">US Election Map Animation
 
-2. <a  style="font-weight:bold" href=""> Singapore Election Map Animation [coming soon]
 
 
